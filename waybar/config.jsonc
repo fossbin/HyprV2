@@ -112,6 +112,7 @@
         "spacing": 10
     },
 
+    
     "clock": {
         "format": "{:%I:%M %p}",
         "tooltip": true,
@@ -172,9 +173,8 @@
     
     "temperature": {
         "thermal-zone": 1,
-        "format": " {temperatureF}°F",
+        "format": " {temperatureC}°C",
         "critical-threshold": 70,
-        "format-critical": " {temperatureC}°C",
         "on-click": "kitty --start-as=fullscreen --title btop sh -c 'btop'"
     }
 }
