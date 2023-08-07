@@ -1941,3 +1941,205 @@ mv: cannot move '/home/fossbin/.config/wlogout' to '/home/fossbin/.config/wlogou
 mv: cannot move '/home/fossbin/.config/wofi' to '/home/fossbin/.config/wofi-back/wofi': Directory not empty
 [Theme]
 Current=sdt
+[connection]
+wifi.powersave = 2
+:: Synchronizing package databases...
+ core downloading...
+error: failed retrieving file 'core.db' from europe.mirror.pkgbuild.com : Could not resolve host: europe.mirror.pkgbuild.com
+warning: too many errors from europe.mirror.pkgbuild.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.f4st.host : Could not resolve host: mirror.f4st.host
+warning: too many errors from mirror.f4st.host, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.ubrco.de : Could not resolve host: mirror.ubrco.de
+warning: too many errors from mirror.ubrco.de, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.sunred.org : Could not resolve host: mirror.sunred.org
+warning: too many errors from mirror.sunred.org, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from md.mirrors.hacktegic.com : Could not resolve host: md.mirrors.hacktegic.com
+warning: too many errors from md.mirrors.hacktegic.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.theo546.fr : Could not resolve host: mirror.theo546.fr
+warning: too many errors from mirror.theo546.fr, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.pseudoform.org : Could not resolve host: mirror.pseudoform.org
+warning: too many errors from mirror.pseudoform.org, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.lty.me : Could not resolve host: mirror.lty.me
+warning: too many errors from mirror.lty.me, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirrors.wsyu.edu.cn : Could not resolve host: mirrors.wsyu.edu.cn
+warning: too many errors from mirrors.wsyu.edu.cn, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from sydney.mirror.pkgbuild.com : Could not resolve host: sydney.mirror.pkgbuild.com
+warning: too many errors from sydney.mirror.pkgbuild.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.telepoint.bg : Could not resolve host: mirror.telepoint.bg
+warning: too many errors from mirror.telepoint.bg, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from archlinux.mailtunnel.eu : Could not resolve host: archlinux.mailtunnel.eu
+warning: too many errors from archlinux.mailtunnel.eu, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from archmirror.it : Could not resolve host: archmirror.it
+warning: too many errors from archmirror.it, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.ufscar.br : Could not resolve host: mirror.ufscar.br
+warning: too many errors from mirror.ufscar.br, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from archlinux.uk.mirror.allworldit.com : Could not resolve host: archlinux.uk.mirror.allworldit.com
+warning: too many errors from archlinux.uk.mirror.allworldit.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from archlinux.za.mirror.allworldit.com : Could not resolve host: archlinux.za.mirror.allworldit.com
+warning: too many errors from archlinux.za.mirror.allworldit.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from america.mirror.pkgbuild.com : Could not resolve host: america.mirror.pkgbuild.com
+warning: too many errors from america.mirror.pkgbuild.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from asia.mirror.pkgbuild.com : Could not resolve host: asia.mirror.pkgbuild.com
+warning: too many errors from asia.mirror.pkgbuild.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from geo.mirror.pkgbuild.com : Could not resolve host: geo.mirror.pkgbuild.com
+warning: too many errors from geo.mirror.pkgbuild.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.tmmworkshop.com : Could not resolve host: mirror.tmmworkshop.com
+warning: too many errors from mirror.tmmworkshop.com, skipping for the remainder of this transaction
+error: failed to synchronize all databases (invalid url for server)
+ -> error refreshing databases - exit status 1
+error: target not found: xdg-desktop-portal-gnome
+error: target not found: xdg-desktop-portal-gtk
+ -> exit status 1
+[connection]
+wifi.powersave = 2
+:: Synchronizing package databases...
+ core downloading...
+error: failed retrieving file 'core.db' from europe.mirror.pkgbuild.com : Could not resolve host: europe.mirror.pkgbuild.com
+warning: too many errors from europe.mirror.pkgbuild.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.f4st.host : Could not resolve host: mirror.f4st.host
+warning: too many errors from mirror.f4st.host, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.ubrco.de : Could not resolve host: mirror.ubrco.de
+warning: too many errors from mirror.ubrco.de, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.sunred.org : Could not resolve host: mirror.sunred.org
+warning: too many errors from mirror.sunred.org, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from md.mirrors.hacktegic.com : Could not resolve host: md.mirrors.hacktegic.com
+warning: too many errors from md.mirrors.hacktegic.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.theo546.fr : Could not resolve host: mirror.theo546.fr
+warning: too many errors from mirror.theo546.fr, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.pseudoform.org : Could not resolve host: mirror.pseudoform.org
+warning: too many errors from mirror.pseudoform.org, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.lty.me : Could not resolve host: mirror.lty.me
+warning: too many errors from mirror.lty.me, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirrors.wsyu.edu.cn : Could not resolve host: mirrors.wsyu.edu.cn
+warning: too many errors from mirrors.wsyu.edu.cn, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from sydney.mirror.pkgbuild.com : Could not resolve host: sydney.mirror.pkgbuild.com
+warning: too many errors from sydney.mirror.pkgbuild.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.telepoint.bg : Could not resolve host: mirror.telepoint.bg
+warning: too many errors from mirror.telepoint.bg, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from archlinux.mailtunnel.eu : Could not resolve host: archlinux.mailtunnel.eu
+warning: too many errors from archlinux.mailtunnel.eu, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from archmirror.it : Could not resolve host: archmirror.it
+warning: too many errors from archmirror.it, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.ufscar.br : Could not resolve host: mirror.ufscar.br
+warning: too many errors from mirror.ufscar.br, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from archlinux.uk.mirror.allworldit.com : Could not resolve host: archlinux.uk.mirror.allworldit.com
+warning: too many errors from archlinux.uk.mirror.allworldit.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from archlinux.za.mirror.allworldit.com : Could not resolve host: archlinux.za.mirror.allworldit.com
+warning: too many errors from archlinux.za.mirror.allworldit.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from america.mirror.pkgbuild.com : Could not resolve host: america.mirror.pkgbuild.com
+warning: too many errors from america.mirror.pkgbuild.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from asia.mirror.pkgbuild.com : Could not resolve host: asia.mirror.pkgbuild.com
+warning: too many errors from asia.mirror.pkgbuild.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from geo.mirror.pkgbuild.com : Could not resolve host: geo.mirror.pkgbuild.com
+warning: too many errors from geo.mirror.pkgbuild.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.tmmworkshop.com : Could not resolve host: mirror.tmmworkshop.com
+warning: too many errors from mirror.tmmworkshop.com, skipping for the remainder of this transaction
+error: failed to synchronize all databases (invalid url for server)
+ -> error refreshing databases - exit status 1
+error: target not found: xdg-desktop-portal-gnome
+error: target not found: xdg-desktop-portal-gtk
+ -> exit status 1
+[Theme]
+Current=sdt
+[connection]
+wifi.powersave = 2
+:: Synchronizing package databases...
+ core downloading...
+error: failed retrieving file 'core.db' from europe.mirror.pkgbuild.com : Could not resolve host: europe.mirror.pkgbuild.com
+warning: too many errors from europe.mirror.pkgbuild.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.f4st.host : Could not resolve host: mirror.f4st.host
+warning: too many errors from mirror.f4st.host, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.ubrco.de : Could not resolve host: mirror.ubrco.de
+warning: too many errors from mirror.ubrco.de, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.sunred.org : Could not resolve host: mirror.sunred.org
+warning: too many errors from mirror.sunred.org, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from md.mirrors.hacktegic.com : Could not resolve host: md.mirrors.hacktegic.com
+warning: too many errors from md.mirrors.hacktegic.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.theo546.fr : Could not resolve host: mirror.theo546.fr
+warning: too many errors from mirror.theo546.fr, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.pseudoform.org : Could not resolve host: mirror.pseudoform.org
+warning: too many errors from mirror.pseudoform.org, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.lty.me : Could not resolve host: mirror.lty.me
+warning: too many errors from mirror.lty.me, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirrors.wsyu.edu.cn : Could not resolve host: mirrors.wsyu.edu.cn
+warning: too many errors from mirrors.wsyu.edu.cn, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from sydney.mirror.pkgbuild.com : Could not resolve host: sydney.mirror.pkgbuild.com
+warning: too many errors from sydney.mirror.pkgbuild.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.telepoint.bg : Could not resolve host: mirror.telepoint.bg
+warning: too many errors from mirror.telepoint.bg, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from archlinux.mailtunnel.eu : Could not resolve host: archlinux.mailtunnel.eu
+warning: too many errors from archlinux.mailtunnel.eu, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from archmirror.it : Could not resolve host: archmirror.it
+warning: too many errors from archmirror.it, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.ufscar.br : Could not resolve host: mirror.ufscar.br
+warning: too many errors from mirror.ufscar.br, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from archlinux.uk.mirror.allworldit.com : Could not resolve host: archlinux.uk.mirror.allworldit.com
+warning: too many errors from archlinux.uk.mirror.allworldit.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from archlinux.za.mirror.allworldit.com : Could not resolve host: archlinux.za.mirror.allworldit.com
+warning: too many errors from archlinux.za.mirror.allworldit.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from america.mirror.pkgbuild.com : Could not resolve host: america.mirror.pkgbuild.com
+warning: too many errors from america.mirror.pkgbuild.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from asia.mirror.pkgbuild.com : Could not resolve host: asia.mirror.pkgbuild.com
+warning: too many errors from asia.mirror.pkgbuild.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from geo.mirror.pkgbuild.com : Could not resolve host: geo.mirror.pkgbuild.com
+warning: too many errors from geo.mirror.pkgbuild.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.tmmworkshop.com : Could not resolve host: mirror.tmmworkshop.com
+warning: too many errors from mirror.tmmworkshop.com, skipping for the remainder of this transaction
+error: failed to synchronize all databases (invalid url for server)
+ -> error refreshing databases - exit status 1
+error: target not found: xdg-desktop-portal-gnome
+error: target not found: xdg-desktop-portal-gtk
+ -> exit status 1
+:: Synchronizing package databases...
+
+Hangup signal received
+[?25h
+[connection]
+wifi.powersave = 2
+:: Synchronizing package databases...
+ core downloading...
+error: failed retrieving file 'core.db' from europe.mirror.pkgbuild.com : Could not resolve host: europe.mirror.pkgbuild.com
+warning: too many errors from europe.mirror.pkgbuild.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.f4st.host : Could not resolve host: mirror.f4st.host
+warning: too many errors from mirror.f4st.host, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.ubrco.de : Could not resolve host: mirror.ubrco.de
+warning: too many errors from mirror.ubrco.de, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.sunred.org : Could not resolve host: mirror.sunred.org
+warning: too many errors from mirror.sunred.org, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from md.mirrors.hacktegic.com : Could not resolve host: md.mirrors.hacktegic.com
+warning: too many errors from md.mirrors.hacktegic.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.theo546.fr : Could not resolve host: mirror.theo546.fr
+warning: too many errors from mirror.theo546.fr, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.pseudoform.org : Could not resolve host: mirror.pseudoform.org
+warning: too many errors from mirror.pseudoform.org, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.lty.me : Could not resolve host: mirror.lty.me
+warning: too many errors from mirror.lty.me, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirrors.wsyu.edu.cn : Could not resolve host: mirrors.wsyu.edu.cn
+warning: too many errors from mirrors.wsyu.edu.cn, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from sydney.mirror.pkgbuild.com : Could not resolve host: sydney.mirror.pkgbuild.com
+warning: too many errors from sydney.mirror.pkgbuild.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.telepoint.bg : Could not resolve host: mirror.telepoint.bg
+warning: too many errors from mirror.telepoint.bg, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from archlinux.mailtunnel.eu : Could not resolve host: archlinux.mailtunnel.eu
+warning: too many errors from archlinux.mailtunnel.eu, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from archmirror.it : Could not resolve host: archmirror.it
+warning: too many errors from archmirror.it, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.ufscar.br : Could not resolve host: mirror.ufscar.br
+warning: too many errors from mirror.ufscar.br, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from archlinux.uk.mirror.allworldit.com : Could not resolve host: archlinux.uk.mirror.allworldit.com
+warning: too many errors from archlinux.uk.mirror.allworldit.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from archlinux.za.mirror.allworldit.com : Could not resolve host: archlinux.za.mirror.allworldit.com
+warning: too many errors from archlinux.za.mirror.allworldit.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from america.mirror.pkgbuild.com : Could not resolve host: america.mirror.pkgbuild.com
+warning: too many errors from america.mirror.pkgbuild.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from asia.mirror.pkgbuild.com : Could not resolve host: asia.mirror.pkgbuild.com
+warning: too many errors from asia.mirror.pkgbuild.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from geo.mirror.pkgbuild.com : Could not resolve host: geo.mirror.pkgbuild.com
+warning: too many errors from geo.mirror.pkgbuild.com, skipping for the remainder of this transaction
+error: failed retrieving file 'core.db' from mirror.tmmworkshop.com : Could not resolve host: mirror.tmmworkshop.com
+warning: too many errors from mirror.tmmworkshop.com, skipping for the remainder of this transaction
+error: failed to synchronize all databases (invalid url for server)
+ -> error refreshing databases - exit status 1
+error: target not found: xdg-desktop-portal-gnome
+error: target not found: xdg-desktop-portal-gtk
+ -> exit status 1
